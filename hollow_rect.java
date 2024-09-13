@@ -1,7 +1,7 @@
 public class hollow_rect {
     
     public static void main(String[] args) {
-        /* pattern 2
+        /* 
         *****
         *   *
         *   *
